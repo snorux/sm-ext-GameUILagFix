@@ -3,7 +3,10 @@
 Prevents adding FL_ONTRAIN to game_ui
 
 ## Installation:
-- Drag and drop into game folder
+- Windows:  
+  - Drag and drop into .dll and gamedata into folders
+- Linux:  
+  - Drag and drop .so and gamedata into folders
 
 <br/>
 Untested for linux
