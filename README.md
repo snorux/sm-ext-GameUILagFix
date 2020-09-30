@@ -1,6 +1,9 @@
 # GameUILagFix
 
-Prevents adding FL_ONTRAIN to game_ui
+Prevents adding FL_ONTRAIN to game_ui.
+
+When a player picks up one of these entities with high ping, they will experience jittery movements due to lag compensation.  
+This extension prevents that from happening
 
 ## Installation:
 - Windows:  
